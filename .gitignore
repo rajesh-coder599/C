@@ -1,0 +1,9 @@
+# Compiled C files
+*.o
+*.out
+
+# VS Code
+.vscode/
+
+# Executables
+first_c_program
